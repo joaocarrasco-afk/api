@@ -8,6 +8,6 @@ app.get("/idade/:nome/:idade", (req, res)=>{
     })
 })
 
-app.listen(3030, ()=>{
-        console.log("Joao, servidor on")
+app.listen(3020, ()=>{
+        console.log("Emy, servidor on")
 })
